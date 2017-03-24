@@ -1,10 +1,15 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Sharon Gann
+email: gourdartisan@gmail.com
+url: https://gourdartisan.github.io
+description: |
+  "I love making art out of gourds. I do comission work, along
+  with teaching classes. I especially like working with teenagers.I recently
+  volunteered my services, demonstrating the process of the Ni'ihau method of
+  Ipu dying, as a learning experience to the kids at The Lanakila Learning
+  Center, an alternative learning center of Hilo High School."
+skills: "Gourd Artisan - Coco Entrepreneur - Experienced Teacher"
+meta_author: Gann Sharon
 
 # Google webmaster tools
 google_verify:
@@ -20,14 +25,14 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+#disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 2e1d13 #80B3FF
+  primary-rgb: "46, 29, 19" #"128,179,255"
+  secondary: 9b7f50 #FD6E8A
+  secondary-dark: 74613f #A2122F
 
 # Footer settings
 footer:
@@ -38,16 +43,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/Hawaiian-Candyman-143041289168027
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
